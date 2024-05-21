@@ -37,3 +37,4 @@ public class MulticastChatServer {
         }
         serverMulticastSocket.close();
     }
+}
